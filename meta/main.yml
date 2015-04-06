@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: k33n
+  author: k33nice
   description: common
   license: MIT
   min_ansible_version: 1.5
